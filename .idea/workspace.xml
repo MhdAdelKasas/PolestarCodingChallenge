@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02f249e7-4afd-4ebd-8a81-391f69e4b12a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/inCompleteLinesFile.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/PolestarCodingChallenge/MainKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PolestarCodingChallenge/MainKt$main$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/PolestarCodingChallenge/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PolestarCodingChallenge/MainKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/exampleInput.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/exampleInput.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/inCompleteLinesFile.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,13 +83,8 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/main/kotlin/Main.kt</url>
-          <line>50</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/Main.kt</url>
-          <line>81</line>
-          <option name="timeStamp" value="23" />
+          <line>80</line>
+          <option name="timeStamp" value="30" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
